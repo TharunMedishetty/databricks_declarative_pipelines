@@ -30,6 +30,12 @@ Develop a modern data warehouse using DLT Pipelines to consolidate sales data, e
 - **Documentation**: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 
 ---
+---
+## 🏗️ Data Model
+The data model for this project follows star schema.
+![Data Model](docs/dData_Model_ERP_Diagram.drwaio)
+
+---
 ## 🏗️ Data Architecture
 The data architecture for this project follows Medallion Architecture **Bronze**, **Silver**, and **Gold** layers:
 ![Data Architecture](docs/data_architecture.png)
