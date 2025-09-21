@@ -33,6 +33,7 @@ Develop a modern data warehouse using DLT Pipelines to consolidate sales data, e
 ---
 ## 🏗️ Data Model
 The data model for this project follows star schema.
+
 ![Data Model](docs/Data_Model_ERP_Diagram.png)
 
 ---
