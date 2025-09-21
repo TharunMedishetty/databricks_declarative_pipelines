@@ -34,7 +34,6 @@ Develop a modern data warehouse using DLT Pipelines to consolidate sales data, e
 The data architecture for this project follows Medallion Architecture **Bronze**, **Silver**, and **Gold** layers:
 ![Data Architecture](docs/data_architecture.png)
 
-The data architecture for this project follows Medallion Architecture **Bronze**, **Silver**, and **Gold** layers:
 ---
 
 ## 📂 Repository Structure
