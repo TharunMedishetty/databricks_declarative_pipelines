@@ -41,7 +41,7 @@ The data architecture for this project follows Medallion Architecture **Bronze**
 databricks_declarative_pipelines/
 ├── docs/                                  # Project documentation and architecture details
 │   ├── data_architecture.drawio           # Draw.io file shows the project's architecture
-│   ├── data_models.drawio                 # Draw.io file for data models (star schema)
+│   ├── Data_Model_ERP_Diagram.drawio                 # Draw.io file for data models (star schema)
 │   ├── DLT Project Documentation.docx     # End to End documentaion which explains the project briefly
 
 │
