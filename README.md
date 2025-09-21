@@ -34,10 +34,13 @@ The data model for this project follows star schema.
 
 ![Data Model](docs/Data_Model_ERP_Diagram.png)
 ---
+---
 ## 🏗️ Data Architecture
 
 The data architecture for this project follows Medallion Architecture **Bronze**, **Silver**, and **Gold** layers:
 ![Data Architecture](docs/data_architecture.png)
+
+
 ---
 ## 📝 Project Documentation
 [Project Documentation](https://docs.google.com/document/d/1iTeql8H6d7nOdo1NGXcNAjBnEYk5vHR0MGn_FnLyYck/edit?usp=sharing)
