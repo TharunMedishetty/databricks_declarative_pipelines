@@ -7,9 +7,9 @@ This project demonstrates how to build a Data Warehouse using Databricks Declara
 
 - Flows for orchestration
 - Streaming tables for incremental data processing
- -Materialized views for optimized query performance
- -Views for transformations and logic abstraction
- -Change Data Capture (CDC) and Slowly Changing Dimensions (SCD Types 1 & 2)
+- Materialized views for optimized query performance
+- Views for transformations and logic abstraction
+- Change Data Capture (CDC) and Slowly Changing Dimensions (SCD Types 1 & 2)
 
 The project also applies the Medallion Architecture (Bronze, Silver, Gold layers) to design a structured DWH pipeline.
 
