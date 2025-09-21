@@ -45,13 +45,13 @@ databricks_declarative_pipelines/
 │   ├── DLT Project Documentation.docx     # End to End documentaion which explains the project briefly
 
 │
-├── scripts/                            # DLT Scripts with python for ETL and transformations
-│   ├── source/                         # SQL Scripts for source data
-│   ├── bronze/                         # Scripts for extracting and loading raw data
-│   ├── silver/                         # Scripts for cleaning and transforming data
-│   ├── gold/                           # Scripts for creating analytical models
+├── scripts/                               # DLT Scripts with python for ETL and transformations
+│   ├── source/                            # SQL Scripts for source data
+│   ├── bronze/                            # Scripts for extracting and loading raw data
+│   ├── silver/                            # Scripts for cleaning and transforming data
+│   ├── gold/                              # Scripts for creating analytical models
 
-├── README.md                           # Project overview and instructions
+├── README.md                              # Project overview and instructions
 
 ```
 ---
